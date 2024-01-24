@@ -1,0 +1,17 @@
+[0.520s] Invoking command in '/home/krishna-vineeth/dev_ws/build/rospy2': PYTHONPATH=/home/krishna-vineeth/dev_ws/build/rospy2/prefix_override:/home/krishna-vineeth/dev_ws/install/rospy2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/krishna-vineeth/dev_ws/build/rospy2/build --no-deps
+[0.701s] running develop
+[0.701s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.701s]   warnings.warn(
+[0.702s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.702s]   warnings.warn(
+[0.817s] running egg_info
+[0.817s] writing rospy2.egg-info/PKG-INFO
+[0.817s] writing dependency_links to rospy2.egg-info/dependency_links.txt
+[0.817s] writing top-level names to rospy2.egg-info/top_level.txt
+[0.818s] reading manifest file 'rospy2.egg-info/SOURCES.txt'
+[0.819s] writing manifest file 'rospy2.egg-info/SOURCES.txt'
+[0.820s] running build_ext
+[0.820s] Creating /home/krishna-vineeth/dev_ws/install/rospy2/lib/python3.10/site-packages/rospy2.egg-link (link to .)
+[0.820s] 
+[0.820s] Installed /home/krishna-vineeth/dev_ws/build/rospy2
+[0.843s] Invoked command in '/home/krishna-vineeth/dev_ws/build/rospy2' returned '0': PYTHONPATH=/home/krishna-vineeth/dev_ws/build/rospy2/prefix_override:/home/krishna-vineeth/dev_ws/install/rospy2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/krishna-vineeth/dev_ws/build/rospy2/build --no-deps
